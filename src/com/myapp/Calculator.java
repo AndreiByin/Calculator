@@ -6,4 +6,9 @@ public class Calculator {
         int x;
         return 0.0;
     }
+    public static double plus(double first, double second){
+
+        return first + second;
+    }
+
 }
