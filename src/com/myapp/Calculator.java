@@ -2,7 +2,7 @@ package com.myapp;
 
 public class Calculator {
 
-    public static double minus(double first, double second) {
+    public static double minus(double first, double second){
         int x;
         return 0.0;
     }
@@ -10,4 +10,9 @@ public class Calculator {
     public static double multiplay(double first, double second) {
         return first*second;
     }
+    public static double plus(double first, double second){
+
+        return first + second;
+    }
+
 }
