@@ -18,6 +18,10 @@ public class Calculator {
 
         return Math.sin(y);
     }
+    public static double cos(double y){
+
+        return Math.cos(y);
+    }
 
 
 }
