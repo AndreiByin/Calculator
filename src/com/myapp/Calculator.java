@@ -24,4 +24,9 @@ public class Calculator {
         return Math.round(y);
     }
 
+    public static double cos( double x){
+
+        return Math.cos(x);
+    }
+
 }
