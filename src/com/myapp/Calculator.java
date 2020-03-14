@@ -14,6 +14,10 @@ public class Calculator {
 
         return first + second;
     }
+    public static double sin(double y){
+
+        return Math.sin(y);
+    }
 
 
 }
