@@ -19,4 +19,9 @@ public class Calculator {
         return Math.cos(x);
     }
 
+    public static double cos( double x){
+
+        return Math.cos(x);
+    }
+
 }
