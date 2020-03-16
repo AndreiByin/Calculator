@@ -18,6 +18,10 @@ public class Calculator {
 
         return Math.sin(y);
     }
+    public static double tan(double y){
+
+        return Math.tan(y);
+    }
 
     public static double round(double y){
 
