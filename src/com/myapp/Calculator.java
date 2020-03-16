@@ -26,7 +26,7 @@ public class Calculator {
 
     public static double cos( double x){
 
-        return Math.cos(x);
+        return Math.tan(x);
     }
 
 }
