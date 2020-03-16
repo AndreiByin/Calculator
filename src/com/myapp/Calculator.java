@@ -19,4 +19,9 @@ public class Calculator {
         return Math.sin(y);
     }
 
+    public static double round(double y){
+
+        return Math.round(y);
+    }
+
 }
