@@ -14,10 +14,13 @@ public class Calculator {
 
         return first + second;
     }
+    public static double sin(double y){
 
-    public static double cos( double x){
+        return Math.sin(y);
+    }
+    public static double tan(double y){
 
-        return Math.cos(x);
+        return Math.tan(y);
     }
 
 }
